@@ -12,5 +12,5 @@
 <br>
 <h3>🏆 Baekjoon solved rank 🏆</h3>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xofdus)](https://solved.ac/xofdus)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xofdus)](https://solved.ac/profile/xofdus)
 </div>
