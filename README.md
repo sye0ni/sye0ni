@@ -1,6 +1,6 @@
 
 <div align=center>
-<h3>🌱 I’m currently learning ... </h3>  
+<h3>🌱 I’m currently learning ... 🌱</h3>  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=300&section=header&text=sye0ni%20Github!&fontSize=90&animation=fadeIn&fontColor=666666" />
 </div>
 
