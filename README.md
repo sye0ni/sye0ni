@@ -1,3 +1,4 @@
+
 <div align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/936fc29b0bedfebcabbe401e834b7125edb7d52ef92b0a88476a5031216b19a0/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d776a64646d61646c3937">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xofdus" alt="Solved.ac Profile">
@@ -12,7 +13,7 @@
 </a>
 </div>
 <p dir="auto">
-🎓 세종대학교 정보보호학과 졸업 (2018.03 - 2023.08) <br>
+🎓 세종대학교 정보보호학과 졸업 (2023.08) <br>
 🔎 삼성 청년 SW 아카데미 (SSAFY) 10기 (2023.07 - 2024.06) <br>
 </p>
 <br>
