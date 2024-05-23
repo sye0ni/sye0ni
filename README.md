@@ -45,5 +45,24 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> 
   <br>
- 
 </div>
+
+<br>
+<br>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Introduction</th>
+    <th>Languages, etc.</th>
+  </tr>
+  <tr>
+    <td><a href="[https://github.com/sye0ni/Throwng]">Throwng</a></td>
+    <td> 위치 기반 음악 공유 서비스, Throwng 🎧 </td>
+    <td> Java, SpringBoot, JPA, MySQL, Pinpoint </td>
+  </tr>
+  <tr>
+    <td><a href="[https://github.com/sye0ni/Moding]">Moding</a></td>
+    <td> 재상영 영화 펀딩 서비스, Moding 🎞 </td>
+    <td> Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana </td>
+  </tr>
+</table>
