@@ -1,20 +1,49 @@
+<div align="center">
+  
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xofdus"/>
+  
+### 👋 SEUNG YEON 👋
+---
+  🎓 세종대학교 정보보호학과 졸업 (2023.08)  
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 10기   
+ 
 
-<div align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/936fc29b0bedfebcabbe401e834b7125edb7d52ef92b0a88476a5031216b19a0/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d776a64646d61646c3937">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xofdus" alt="Solved.ac Profile">
-        </a>
-<div class="markdown-heading" dir="auto">
-<h2 class="heading-element" dir="auto">👋 SEUNG YEON 👋</h2>
-<a id="user-content--jeong-um-" class="anchor" aria-label="Permalink: 👋 SEUNG YEON 👋" href="#-jeong-um-">
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-</path>
-</svg>
-</a>
+  <br>
+ 
 </div>
-<p dir="auto">
-🎓 세종대학교 정보보호학과 졸업 (2023.08) <br>
-🔎 삼성 청년 SW 아카데미 (SSAFY) 10기 (2023.07 - 2024.06) <br>
-</p>
+
+
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sye0ni&layout=compact&theme=dracula&langs_count=8"/>
+  
+  ### 🛠 Once I've Used 🛠
+ 
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
+
 <br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+
+  <br>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
+  <br>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> 
+  <br>
+ 
 </div>
