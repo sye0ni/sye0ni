@@ -49,6 +49,7 @@
 
 <br>
 <br>
+<div align="center">
 <table>
   <tr>
     <th>Title</th>
@@ -66,3 +67,4 @@
     <td> Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana </td>
   </tr>
 </table>
+</div>
