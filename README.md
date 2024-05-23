@@ -50,6 +50,8 @@
 <br>
 <br>
 <div align="center">
+  
+  ### 💻 Projects 💻
 <table>
   <tr>
     <th>Title</th>
