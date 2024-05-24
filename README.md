@@ -50,12 +50,13 @@
 <br>
 <br>
 <div align="center">
-  
-  ### 💻 Projects 💻
-|Title|Project|Languages, etc|Period|
-|----|---|---|-----|
-|[Throwng](https://github.com/sye0ni/Throwng)|위치 기반 음악 공유 서비스, **Throwng** 🎧|Java, SpringBoot, JPA, MySQL, Pinpoint|24.04-24.05|
-|[Moding](https://github.com/sye0ni/Moding)|재상영 영화 펀딩 서비스, **Moding** 🎞|Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana|24.02-24.04|
-|[Popcon](https://github.com/sye0ni/Popcon)|팝업스토어 정보 큐레이팅 서비스, **Popcon** 🎁|Java, SpringBoot, Mybatis, MariaDB|24.01-24.02|
+
+### 💻 Projects 💻
+| Title | Project | Tech Stack | Period |
+| ---- | --- | --- | ----- |
+| [Throwng](https://github.com/sye0ni/Throwng) | 위치 기반 음악 공유 서비스 🎧| Java, SpringBoot, JPA, MySQL, Pinpoint | 24.04-24.05 |
+| [Moding](https://github.com/sye0ni/Moding) | 재상영 영화 펀딩 서비스 🎞| Java, SpringBoot, JPA, MySQL, ELK Stack | 24.02-24.04 |
+| [Popcon](https://github.com/sye0ni/Popcon) | 팝업스토어 정보 큐레이팅 서비스 🎁| Java, SpringBoot, Mybatis, MariaDB | 24.01-24.02 |
+
 
 </div>
