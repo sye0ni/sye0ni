@@ -52,26 +52,10 @@
 <div align="center">
   
   ### 💻 Projects 💻
-<table>
-  <tr>
-    <th>Title</th>
-    <th>Introduction</th>
-    <th>Languages, etc.</th>
-  </tr>
-  <tr>
-    <td><a href="[https://github.com/sye0ni/Throwng]">Throwng</a></td>
-    <td> 위치 기반 음악 공유 서비스, **Throwng** 🎧 </td>
-    <td> Java, SpringBoot, JPA, MySQL, Pinpoint </td>
-  </tr>
-  <tr>
-    <td><a href="[https://github.com/sye0ni/Moding]">Moding</a></td>
-    <td> 재상영 영화 펀딩 서비스, **Moding** 🎞 </td>
-    <td> Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana </td>
-  </tr>
-    <tr>
-    <td><a href="[https://github.com/sye0ni/Popcon]">Popcon</a></td>
-    <td> 팝업스토어 정보 큐레이팅 서비스, **Popcon** 🎁 </td>
-    <td> Java, SpringBoot, Mybatis, MariaDB </td>
-  </tr>
-</table>
+|Title|Project|Languages, etc|
+|------|---|---|
+|[Throwng](https://github.com/sye0ni/Throwng)|위치 기반 음악 공유 서비스, **Throwng** 🎧|Java, SpringBoot, JPA, MySQL, Pinpoint|
+|[Moding](https://github.com/sye0ni/Moding)|재상영 영화 펀딩 서비스, **Moding** 🎞|Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana|
+|[Popcon](https://github.com/sye0ni/Popcon)|팝업스토어 정보 큐레이팅 서비스, **Popcon** 🎁|Java, SpringBoot, Mybatis, MariaDB|
+
 </div>
