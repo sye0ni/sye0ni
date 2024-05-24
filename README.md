@@ -54,8 +54,8 @@
   ### 💻 Projects 💻
 |Title|Project|Languages, etc|
 |------|---|---|
-|[Throwng](https://github.com/sye0ni/Throwng)|위치 기반 음악 공유 서비스, **Throwng** 🎧|Java, SpringBoot, JPA, MySQL, Pinpoint|
-|[Moding](https://github.com/sye0ni/Moding)|재상영 영화 펀딩 서비스, **Moding** 🎞|Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana|
-|[Popcon](https://github.com/sye0ni/Popcon)|팝업스토어 정보 큐레이팅 서비스, **Popcon** 🎁|Java, SpringBoot, Mybatis, MariaDB|
+|[Throwng](https://github.com/sye0ni/Throwng)|위치 기반 음악 공유 서비스, **Throwng** 🎧 (2024.04-2024.05)|Java, SpringBoot, JPA, MySQL, Pinpoint|
+|[Moding](https://github.com/sye0ni/Moding)|재상영 영화 펀딩 서비스, **Moding** 🎞 (2024.02-2024.04)|Java, SpringBoot, JPA, MySQL, ElasticSearch, Logstash, Kibana|
+|[Popcon](https://github.com/sye0ni/Popcon)|팝업스토어 정보 큐레이팅 서비스, **Popcon** 🎁 (2024.01-2024.02)|Java, SpringBoot, Mybatis, MariaDB|
 
 </div>
