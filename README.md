@@ -4,8 +4,8 @@
   
 ### 👋 SEUNG YEON 👋
 ---
-  🎓 세종대학교 정보보호학과 졸업 ( ~ 2023.08)  
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 10기( ~ 2024.06)
+  🎓 세종대학교 졸업 (2018.03-2023.08)  
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 10기 (2023.07-2024.06)
  
 <br>
 <br>
@@ -57,6 +57,5 @@
 | [Throwng](https://github.com/supEr-attraction/throwng-opensource) | 위치 기반 음악 공유 서비스 🎧| Java, SpringBoot, JPA, MySQL, Redis, MongoDB, Pinpoint | 24.04-24.05 |
 | [Moding](https://github.com/Fintechtefin/moding) | 재상영 영화 펀딩 서비스 🎞| Java, SpringBoot, JPA, MySQL, Redis, ELK Stack | 24.02-24.04 |
 | [Popcon](https://github.com/sye0ni/Popcon) | 팝업스토어 정보 큐레이팅 서비스 🎁| Java, SpringBoot, Mybatis, MariaDB, Vue.js | 24.01-24.02 |
-| [TripLog](https://github.com/sye0ni/TripLog) | 여행 계획 및 사진 공유 플랫폼 ✈|	Java, Spring Boot, MyBatis, MySql, Vue.js, Pinia | 23.11 |
 
 </div>
