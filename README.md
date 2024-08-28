@@ -1,11 +1,7 @@
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xofdus"/>
   
 ### 👋 SEUNG YEON 👋
----
-  🎓 세종대학교 졸업 (2018.03-2023.08)  
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 10기 (2023.07-2024.06)
  
 <br>
 <br>
